@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+}
+.parent{
+    background-color: white;
+    width:100%;
+    display:flex;
+     gap:20px; 
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+   
+}
+.child{
+    background-color: red;
+    width:200px;
+    height:300px;
+}
