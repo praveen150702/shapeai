@@ -2,7 +2,7 @@ body{
     background-color: yellow;
 }
 .parent{
-    background-color: white;
+    background-color:blue;
     width:100%;
     display:flex;
      gap:20px; 
